@@ -3,5 +3,6 @@ public class Test{
 		System.out.println("hello git");
 		System.out.println("SIEMA KUR");
 		//KAjetan to szmata jebana na ryj
+		//kaetan lubi male banany
 	}
 }
